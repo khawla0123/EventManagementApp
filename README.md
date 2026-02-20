@@ -18,7 +18,7 @@ Git pour le versioning
 
 Lombok pour simplifier le code
 
-Postman / Swagger pour tester les APIs
+Postman pour tester les APIs
 
 3️⃣ Architecture
 
